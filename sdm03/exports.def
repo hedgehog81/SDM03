@@ -1,0 +1,16 @@
+LIBRARY         SDM03
+EXPORTS
+                USBInstallDriver
+                USBDeviceAttach
+                USBUnInstallDriver
+                SDM_Init
+                SDM_Deinit
+                SDM_Open
+                SDM_Close
+                SDM_Read
+                SDM_Write
+                SDM_Seek
+                SDM_IOControl
+                SDM_PowerUp
+                SDM_PowerDown
+	
